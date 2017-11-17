@@ -1,0 +1,31 @@
+div{
+	margin: 150px ;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 600px;
+	
+	background: white;
+	
+	
+}
+#hello{
+	padding-left:100px;
+	border: 2px solid grey;
+	padding-top:20px;
+	margin: 50px auto;
+	height: 200px;
+	width: 500px;
+}
+img{
+	padding-left: 50px;
+}
+tr.spaces>td{
+	
+	padding-bottom: 1em;
+}
+#menu {
+	height : 40px;
+	width : 100% ;
+	background-color : #cc0000;
+}
