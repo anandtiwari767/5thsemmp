@@ -1,2 +1,10 @@
-# 5thsemmp
-Mini Project for 5th Semester
+Webapp which is used to find out the best colleges and universities in india.
+
+Technology used :
+php
+json
+html
+css
+
+source of data :
+Open Government data 
