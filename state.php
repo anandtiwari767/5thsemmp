@@ -61,7 +61,7 @@ $jsondata=file_get_contents("diploma.json");
 $data=json_decode($jsondata,true);
 $j=2;
 $k=3;
-for($i=0;$i<755;$i++){
+for($i=0;$i<754;$i++){
 	if($data[$i][$j]==$state)
 	{
 		
