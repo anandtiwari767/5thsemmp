@@ -77,7 +77,7 @@ for($i=0;$i<754;$i++){
 
 <ul >
 <li>Welcome,<?php echo $hello;?></li>
-<a href="loginpage.php"><li>HOME </li>
+<a href="index.php"><li>HOME </li>
 <li>SERVICES </li>
 <li>ABOUT US</li>
 </ul>

@@ -32,7 +32,7 @@ ul li:hover
 
 <ul>
 <li>Welcome</li>
-<a href="loginpage.php"><li>HOME </li></a>
+<a href="index.php"><li>HOME </li></a>
 <li>SERVICES </li>
 <a href="aboutus.php"><li>ABOUT US</li></a>
 </ul>
