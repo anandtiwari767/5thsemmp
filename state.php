@@ -45,7 +45,7 @@ else if($state=="")
 {
 	
  echo "<center><h2 >PLEASE ENTER THE STATE</h2></center>";
- echo "<script> setTimeout(\"location.href='loginpage.php';\",2000);</script>";
+ echo "<script> setTimeout(\"location.href='index.php';\",2000);</script>";
 			
 }
 
